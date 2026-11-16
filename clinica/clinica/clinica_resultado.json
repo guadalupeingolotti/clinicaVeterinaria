@@ -1,0 +1,70 @@
+{
+  "nombre": "Clínica Veterinaria Los Amigos",
+  "fechaCreacion": "2026-11-16",
+  "veterinarios": [
+    {
+      "nombre": "Dr. Cacu Koko",
+      "numeroId": "VET-01",
+      "especialidad": "Cirugía",
+      "pacientes": [
+        {
+          "id": "M-101",
+          "nombre": "Bati",
+          "tipo": "Perro"
+        },
+        {
+          "id": "M-102",
+          "nombre": "Limon",
+          "tipo": "Gato"
+        }
+      ]
+    },
+    {
+      "nombre": "Dra. Guadalupe Ingolotti",
+      "numeroId": "VET-02",
+      "especialidad": "Dermatología",
+      "pacientes": [
+        {
+          "id": "M-103",
+          "nombre": "Perro",
+          "tipo": "Chula"
+        },
+        {
+          "id": "M-104",
+          "nombre": "Michi",
+          "tipo": "Gato"
+        },
+        {
+          "id": "M-105",
+          "nombre": "Conejo",
+          "tipo": "Ave"
+        },
+        {
+          "id": "M-106",
+          "nombre": "Hamster",
+          "tipo": "Perro"
+        },
+        {
+          "id": "M-107",
+          "nombre": "Pez",
+          "tipo": "Perro"
+        },
+        {
+          "id": "M-108",
+          "nombre": "Tortuga",
+          "tipo": "ave"
+        },
+        {
+          "id": "M-109",
+          "nombre": "Loro",
+          "tipo": "Perro"
+        },
+        {
+          "id": "M-110",
+          "nombre": "Caballo",
+          "tipo": "Gato"
+        }
+      ]
+    }
+  ]
+}

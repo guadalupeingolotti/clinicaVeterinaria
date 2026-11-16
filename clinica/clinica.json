@@ -1,0 +1,29 @@
+{
+  "nombre": "Clínica Patitas",
+  "fechaCreacion": "16/11/2026",
+  "veterinarios": [
+    {
+      "nombre": "Laura Medina",
+      "numeroId": "100",
+      "especialidad": "Oftalmología",
+      "pacientes": [
+        { "id": "A1", "nombre": "Toby", "tipo": "Perro" },
+        { "id": "A2", "nombre": "Mishi", "tipo": "Gato" }
+      ]
+    },
+    {
+      "nombre": "Martín Ríos",
+      "numeroId": "200",
+      "especialidad": "Cirugía",
+      "pacientes": [
+        { "id": "B1", "nombre": "Kiwi", "tipo": "Ave" }
+      ]
+    },
+    {
+      "nombre": "Sofía Acosta",
+      "numeroId": "300",
+      "especialidad": "Dermatología",
+      "pacientes": []
+    }
+  ]
+}
